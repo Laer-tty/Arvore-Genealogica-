@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722202775 source:c:\users\letty\onedrive\documentos\- arquivos c\projeto arvore genealogica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
